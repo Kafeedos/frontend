@@ -1,0 +1,7 @@
+.navbar {
+    display: flex;               /* Ensures flex layout */
+    justify-content: space-around; /* Distributes space evenly between items */
+    align-items: center;          /* Vertically center items */
+    padding: 16px;
+    box-shadow: 0 1px 3px -2px black;
+}
